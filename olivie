@@ -1,0 +1,87 @@
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <title>Человек-оливье конкурс</title>
+<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=tAHDPybpDeWRTssuUTXh5oeFc43MyWCPiYbJU_tWCJ7NAY3mF9phVDb_3g2ai2Q0amrp7s0yu5LOMrHO0JjHhOzxmKmC49N9vymppI8QOH9IwWFJdceQVOqV8kyzczsQ_92x39q334kh1O0RAQNq0BnJQTez4ZO5UOtc37dHffz97aboj1J1YIDYSkN93op95vrpApLDxg8dHsdlLyzDhU85voiSXzfmPCg-SbIjS9gBbXbYWfBelAYmtUrumj6AmqmIET0V1pUOcj0PPwRFL54FU_FqARMXRxNpqQNKlV703dO71YaaF605VJPkewDe-rCy7X_kkhEEwXzhO816ZRkigq7SvpRdWBvjcOey4UwlMmRAeXp8SMv5VizXqCU36A-Pv35iJ86uRXF7rABELT-rlxe3Tkm6Plg_HMwCFulawxZ1sQR22fRBOveuXrOaJDbE2KJdT6537R-R8GLISzriZulksbykL0pR-7Pc8TACjbJc_4UWrZ2Dn8xfMq9c-EdTuFbyjFUIS3QcC5AN0C5dxM41HGfK2hGrA6ZsydDvZ9X4l66fqeNyRHqfUk7GOH4f59e4HC27mHsMNXPPdTJDSp5l5CLFTRe3uuNr-RnZ6tZuiFgQWw6GR2E1LuH4BwzHEq60-HV2PweCYCxXAgNDmCLmTrUve3Q8rUGy69IdBI2EIxaU_yZkHT6ldyNwKaDELWeEg1C_wZU1qbty0QbBUe-H5HS5vFkBQ64dDqAuLRW8ArJICl33_M9NR9CX1_CAw17AjqYWyBBmM8hUxlLg8ml33FVOuKboF5_FT_UzwPs2-SWyIPvu6TgzN-1BKxR_aK-71Ib1rdq6MhYC8x76v2xSM2eOuPQBs5-9ZL9fX4QbVPc9Pzty_MK54Vq2HNdZ__YRPCVHPGpmG73R0SokELPmToq4o3xRvmEDnuzY6oYjBgfybpg4z_Den7T5_dsWYIUnoatUNOrbihR3GFObCxpMTlGkDIwJ7Kz0_r6mfprttFCByevLgPoT7Ib5PUdgPkLmXPE08rNR8CkMnagKN1KZxGNm0xaCfAOAxxBq3W1Me3dc-CmS-Tm99VVMNy5eXGAbK5SXi3HKDR6KfqL3DA8g9UCWywvV3gvAGNNiKg2kgXLBsTbfxBcgY2aQ" charset="UTF-8"></script></head>
+
+<body style="font-family:sans-serif; text-align: center;">
+
+    <header style="background-color:darkorange; color:black">
+        <img src="https://mars.algoritmika.org/uploads/2020/10/Frame%204_0_1603385959.svg" height="50px" id="start">
+        <a href="#games" style="color:black; font-size:20px;">Описание новогодней вечеринки и</a>
+        <a href="#price" style="color:black; font-size:20px;">её цена</a>
+    </header>
+
+    <main>
+        <h1 style="text-align:center; font-size:50px;">Человек-оливье 2023</h1>
+
+        <h2 style="text-align:center; font-size:40px;">Супер крутая новогодняя вечеринка с супер-героем!</h2>
+
+        <img src="https://krasivosti.pro/uploads/posts/2021-04/1617690122_41-p-koshachi-oboi-ochen-krasivie-kotiki-43.jpg"
+            width="900px">
+
+        <h2 id="games">Знаете человека-оливье?</h2>
+        <p><i>Хотите праздновать новый год по-суперновогодногеройски?</i>
+            <br>Вам надоели однотипные празднования всеми любимого праздника?
+            <br>С нами можно устроить такой праздник, который невозможно забыть.
+            <br>С нами не только человек оливье, но и Чудо-мандарин, кот муравей, Херрингандерафуркоатмен, и Супер ёлка!
+            <br>Праздники для любого вкуса, возраста и осознания неволшебности реальности.
+        </p>
+
+        <img src="https://thumb.tildacdn.com/tild3238-6631-4932-a537-373262336531/-/resize/698x/-/format/webp/_.png" width="200px" />
+
+        <img src="https://thumb.tildacdn.com/tild3439-6131-4339-b432-366365613130/-/resize/708x/-/format/webp/_.png" width="200px" />
+
+
+        <h2><i>Как попасть?</i></h2>
+        <p>Наша вечеринка проходит только в Алгоритмикастане. Ниже есть улицы, на которых можно встретить человека-оливье.
+            <br>ул. Салатиковая
+            <br>ул. Программистовая
+            <br>ул. Жёлтого Робота
+        </p>
+
+        <h2 id="price">Цена</h2>
+        <table style="border-collapse:collapse; border:1px solid green; margin: auto;">
+            <tr style="border:1px solid #483D8B;background-color:palegreen;">
+                <td>Место</td>
+                <td>Подробности</td>
+                <td>Цена</td>
+            </tr>
+            <tr style="border:1px solid #483D8B;">
+                <td style="background-color:white;">ул. Салатиковая</td>
+                <td>С аниматором и музыкой</td>
+                <td>от 1,5 тыс. руб.</td>
+            </tr>
+            <tr style="border:1px solid #483D8B;">
+                <td style="background-color:white;">ул. Программистовая</td>
+                <td>С едой и танцами</td>
+                <td>от 700 руб.</td>
+            </tr>
+            <tr style="border:1px solid #483D8B;">
+                <td style="background-color:white;">ул. Желтого робота</td>
+                <td>С аниматором, музыкой<br>+скидка 25% если первый раз</td>
+                <td>от 2 тыс. руб.</td>
+            </tr>
+            <tr style="border:1px solid #483D8B;">
+                <td style="background-color:white;">Вечеринка дома</td>
+                <td>Договорные штуки</td>
+                <td>От 400 руб.</td>
+            </tr>
+        </table>
+
+        <h2>Конец, а что</h2>
+    
+    </main>
+
+    <footer style="background-color:darkorange; color:black">
+        <a href="#start" style="color:black; font-size:20px">
+
+            наверх</a>
+        <p style="font-size:15px"> я люблю новый год</p>
+        <p>Тел.: 7 965-550-58-34</p>
+    </footer>
+
+</body>
+
+</html>
